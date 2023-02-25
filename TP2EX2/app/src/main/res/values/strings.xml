@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TP2EX2</string>
+    <string name="login">Login</string>
+    <string name="pass">Password</string>
+    <string name="loginET">votre login ici</string>
+    <string name="passET">votre password ici</string>
+    <string name="insc">Inscription</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prenom</string>
+    <string name="age">Age</string>
+    <string name="valider">Valider</string>
+    <string name="ok">Ok</string>
+</resources>
