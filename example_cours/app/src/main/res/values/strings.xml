@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Conversion</string>
+    <string name="label_conv_monnaie">Conversion de Monnaie</string>
+    <string name="hint_val_flottante">Donner une valeur flottante</string>
+    <string name="euro_to_tnd">€ to TND</string>
+    <string name="tnd_to_euro">TND to €</string>
+    <string name="convertir">Convertir</string>
+    <string name="resultat">Résultat</string>
+    <string name="conversion_temp">Conversion de Température</string>
+</resources>
